@@ -11,6 +11,6 @@ All object are 3D objects.
 
 For better resolution, check out this link , as the below demo is compressed:
 https://drive.google.com/file/d/1yfIwJLbZsLW4RuLsI8p3SuWX7719pD9a/view?usp=sharing
+https://user-images.githubusercontent.com/112272836/194929786-b86bcb6d-40d3-4c10-aaa9-1cccf746e557.mp4
 
-https://user-images.githubusercontent.com/112272836/193481092-845ffbe3-bd24-4143-b3c2-d40466ad5471.mp4
 
