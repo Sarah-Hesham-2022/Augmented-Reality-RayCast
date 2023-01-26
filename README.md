@@ -9,6 +9,8 @@
 
 -Ground plane must first be detected by the application.
 
+![Uploading image.png…]()
+
 -With each touch a random 3D object would appear that has its own sound effect and animation.
 
 -Upon touching again a new object appears.
