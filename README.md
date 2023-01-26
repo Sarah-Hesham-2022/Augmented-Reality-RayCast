@@ -13,6 +13,10 @@
 
 -With each touch a random 3D object would appear that has its own sound effect and animation.
 
+-Each object has its own label associated with it ,it moves with it and tracks it, like if it were a part of the object itself.
+
+![image](https://user-images.githubusercontent.com/112272836/214959350-3aa5a50b-e061-4451-b5c7-7311310cff06.png)
+
 -Upon touching again a new object appears.
 
 -No object appears twice in a row.
