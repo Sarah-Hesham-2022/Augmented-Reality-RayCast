@@ -13,6 +13,8 @@ No object appears twice in a row.
 
 You can place the object where you want by dragging your touch, so instead of "touch.end" , I used "touch.moved" in my script.
 
+Incase you want to drag and drop the object by moving your touch and not just ending it instantly, make sure first that the whole place you will be moving (dragging and dropping) your object through is already detected by the application by finding the PNG spots on it, if that is not the case, your object will be placed on the last dragged detected coordinates on your mobile screen.
+
 This is a 3D Project.
 
 For better resolution, check out this link , as the below demo is compressed:
